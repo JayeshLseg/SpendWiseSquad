@@ -1,0 +1,602 @@
+[
+    {
+        "Transaction ID": "T001",
+        "Transaction Date": "2023-02-22",
+        "Amount": 4394.86,
+        "Category": "Transport"
+    },
+    {
+        "Transaction ID": "T002",
+        "Transaction Date": "2023-03-15",
+        "Amount": 2044.47,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T003",
+        "Transaction Date": "2023-01-04",
+        "Amount": 7995.63,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T004",
+        "Transaction Date": "2023-03-27",
+        "Amount": 3714.42,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T005",
+        "Transaction Date": "2023-01-05",
+        "Amount": 3271.29,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T006",
+        "Transaction Date": "2023-02-17",
+        "Amount": 2665.12,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T007",
+        "Transaction Date": "2023-02-26",
+        "Amount": 2301.44,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T008",
+        "Transaction Date": "2023-02-19",
+        "Amount": 3577.88,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T009",
+        "Transaction Date": "2023-01-31",
+        "Amount": 8115.66,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T010",
+        "Transaction Date": "2023-01-28",
+        "Amount": 3543.31,
+        "Category": "Dining Out"
+    },
+    {
+        "Transaction ID": "T011",
+        "Transaction Date": "2023-02-11",
+        "Amount": 1409.57,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T012",
+        "Transaction Date": "2023-03-05",
+        "Amount": 4606.79,
+        "Category": "Transport"
+    },
+    {
+        "Transaction ID": "T013",
+        "Transaction Date": "2023-01-01",
+        "Amount": 7125.4,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T014",
+        "Transaction Date": "2023-01-23",
+        "Amount": 1175.85,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T015",
+        "Transaction Date": "2023-03-21",
+        "Amount": 3679.77,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T016",
+        "Transaction Date": "2023-03-17",
+        "Amount": 3019.27,
+        "Category": "Transport"
+    },
+    {
+        "Transaction ID": "T017",
+        "Transaction Date": "2023-03-25",
+        "Amount": 7363.18,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T018",
+        "Transaction Date": "2023-01-10",
+        "Amount": 2089.19,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T019",
+        "Transaction Date": "2023-01-08",
+        "Amount": 5621.08,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T020",
+        "Transaction Date": "2023-01-02",
+        "Amount": 2082.06,
+        "Category": "Dining Out"
+    },
+    {
+        "Transaction ID": "T021",
+        "Transaction Date": "2023-03-14",
+        "Amount": 6847.99,
+        "Category": "Transport"
+    },
+    {
+        "Transaction ID": "T022",
+        "Transaction Date": "2023-02-18",
+        "Amount": 6699.77,
+        "Category": "Transport"
+    },
+    {
+        "Transaction ID": "T023",
+        "Transaction Date": "2023-02-19",
+        "Amount": 2535.49,
+        "Category": "Dining Out"
+    },
+    {
+        "Transaction ID": "T024",
+        "Transaction Date": "2023-01-07",
+        "Amount": 7750.14,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T025",
+        "Transaction Date": "2023-03-24",
+        "Amount": 5306.08,
+        "Category": "Dining Out"
+    },
+    {
+        "Transaction ID": "T026",
+        "Transaction Date": "2023-02-16",
+        "Amount": 3213.83,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T027",
+        "Transaction Date": "2023-02-18",
+        "Amount": 2195.11,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T028",
+        "Transaction Date": "2023-01-12",
+        "Amount": 4883.24,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T029",
+        "Transaction Date": "2023-01-26",
+        "Amount": 7731.12,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T030",
+        "Transaction Date": "2023-01-28",
+        "Amount": 7309.62,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T031",
+        "Transaction Date": "2023-01-05",
+        "Amount": 4892.19,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T032",
+        "Transaction Date": "2023-02-08",
+        "Amount": 7707.57,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T033",
+        "Transaction Date": "2023-01-12",
+        "Amount": 3448.09,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T034",
+        "Transaction Date": "2023-01-30",
+        "Amount": 7371.84,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T035",
+        "Transaction Date": "2023-03-03",
+        "Amount": 7378.82,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T036",
+        "Transaction Date": "2023-02-10",
+        "Amount": 1763.57,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T037",
+        "Transaction Date": "2023-03-03",
+        "Amount": 5828.47,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T038",
+        "Transaction Date": "2023-03-19",
+        "Amount": 6831.01,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T039",
+        "Transaction Date": "2023-03-05",
+        "Amount": 1842.61,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T040",
+        "Transaction Date": "2023-01-12",
+        "Amount": 4584.9,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T041",
+        "Transaction Date": "2023-03-17",
+        "Amount": 2681.98,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T042",
+        "Transaction Date": "2023-03-31",
+        "Amount": 3796.86,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T043",
+        "Transaction Date": "2023-03-21",
+        "Amount": 6137.56,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T044",
+        "Transaction Date": "2023-02-12",
+        "Amount": 2594.57,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T045",
+        "Transaction Date": "2023-03-26",
+        "Amount": 3063.32,
+        "Category": "Transport"
+    },
+    {
+        "Transaction ID": "T046",
+        "Transaction Date": "2023-03-01",
+        "Amount": 6035.43,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T047",
+        "Transaction Date": "2023-03-13",
+        "Amount": 5361.45,
+        "Category": "Dining Out"
+    },
+    {
+        "Transaction ID": "T048",
+        "Transaction Date": "2023-03-22",
+        "Amount": 2746.87,
+        "Category": "Dining Out"
+    },
+    {
+        "Transaction ID": "T049",
+        "Transaction Date": "2023-01-18",
+        "Amount": 7824.64,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T050",
+        "Transaction Date": "2023-01-07",
+        "Amount": 960.34,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T051",
+        "Transaction Date": "2023-03-03",
+        "Amount": 7501.04,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T052",
+        "Transaction Date": "2023-03-31",
+        "Amount": 3028.36,
+        "Category": "Transport"
+    },
+    {
+        "Transaction ID": "T053",
+        "Transaction Date": "2023-03-14",
+        "Amount": 3337.94,
+        "Category": "Dining Out"
+    },
+    {
+        "Transaction ID": "T054",
+        "Transaction Date": "2023-03-16",
+        "Amount": 4104.44,
+        "Category": "Dining Out"
+    },
+    {
+        "Transaction ID": "T055",
+        "Transaction Date": "2023-03-24",
+        "Amount": 2499.04,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T056",
+        "Transaction Date": "2023-03-13",
+        "Amount": 4741.49,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T057",
+        "Transaction Date": "2023-02-12",
+        "Amount": 1678.66,
+        "Category": "Transport"
+    },
+    {
+        "Transaction ID": "T058",
+        "Transaction Date": "2023-02-25",
+        "Amount": 4707.96,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T059",
+        "Transaction Date": "2023-02-17",
+        "Amount": 4822.88,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T060",
+        "Transaction Date": "2023-01-06",
+        "Amount": 5547.77,
+        "Category": "Transport"
+    },
+    {
+        "Transaction ID": "T061",
+        "Transaction Date": "2023-02-26",
+        "Amount": 7348.78,
+        "Category": "Dining Out"
+    },
+    {
+        "Transaction ID": "T062",
+        "Transaction Date": "2023-03-11",
+        "Amount": 4216.57,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T063",
+        "Transaction Date": "2023-02-15",
+        "Amount": 7124.53,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T064",
+        "Transaction Date": "2023-03-02",
+        "Amount": 5372.29,
+        "Category": "Transport"
+    },
+    {
+        "Transaction ID": "T065",
+        "Transaction Date": "2023-01-31",
+        "Amount": 1849.01,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T066",
+        "Transaction Date": "2023-01-23",
+        "Amount": 1466.59,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T067",
+        "Transaction Date": "2023-03-19",
+        "Amount": 3833.96,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T068",
+        "Transaction Date": "2023-03-18",
+        "Amount": 7333.29,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T069",
+        "Transaction Date": "2023-01-25",
+        "Amount": 979.36,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T070",
+        "Transaction Date": "2023-03-29",
+        "Amount": 7739.74,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T071",
+        "Transaction Date": "2023-03-18",
+        "Amount": 7444.79,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T072",
+        "Transaction Date": "2023-03-12",
+        "Amount": 3808.88,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T073",
+        "Transaction Date": "2023-02-02",
+        "Amount": 3625.22,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T074",
+        "Transaction Date": "2023-02-11",
+        "Amount": 6990.04,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T075",
+        "Transaction Date": "2023-03-12",
+        "Amount": 3001.08,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T076",
+        "Transaction Date": "2023-03-28",
+        "Amount": 6642.02,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T077",
+        "Transaction Date": "2023-01-13",
+        "Amount": 8131.14,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T078",
+        "Transaction Date": "2023-02-10",
+        "Amount": 4773.4,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T079",
+        "Transaction Date": "2023-01-01",
+        "Amount": 1722.97,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T080",
+        "Transaction Date": "2023-01-22",
+        "Amount": 5947.97,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T081",
+        "Transaction Date": "2023-03-05",
+        "Amount": 6225.32,
+        "Category": "Dining Out"
+    },
+    {
+        "Transaction ID": "T082",
+        "Transaction Date": "2023-01-02",
+        "Amount": 6270.84,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T083",
+        "Transaction Date": "2023-03-15",
+        "Amount": 3220.38,
+        "Category": "Transport"
+    },
+    {
+        "Transaction ID": "T084",
+        "Transaction Date": "2023-03-19",
+        "Amount": 5897.46,
+        "Category": "Dining Out"
+    },
+    {
+        "Transaction ID": "T085",
+        "Transaction Date": "2023-01-23",
+        "Amount": 7856.7,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T086",
+        "Transaction Date": "2023-02-09",
+        "Amount": 4051.28,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T087",
+        "Transaction Date": "2023-01-04",
+        "Amount": 4197.23,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T088",
+        "Transaction Date": "2023-02-16",
+        "Amount": 6124.07,
+        "Category": "Dining Out"
+    },
+    {
+        "Transaction ID": "T089",
+        "Transaction Date": "2023-03-19",
+        "Amount": 7265.61,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T090",
+        "Transaction Date": "2023-03-10",
+        "Amount": 1143.01,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T091",
+        "Transaction Date": "2023-01-17",
+        "Amount": 1982.25,
+        "Category": "Entertainment"
+    },
+    {
+        "Transaction ID": "T092",
+        "Transaction Date": "2023-02-09",
+        "Amount": 5496.59,
+        "Category": "Transport"
+    },
+    {
+        "Transaction ID": "T093",
+        "Transaction Date": "2023-02-17",
+        "Amount": 1237.71,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T094",
+        "Transaction Date": "2023-03-05",
+        "Amount": 7216.79,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T095",
+        "Transaction Date": "2023-03-14",
+        "Amount": 6806.05,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T096",
+        "Transaction Date": "2023-03-21",
+        "Amount": 4349.01,
+        "Category": "Groceries"
+    },
+    {
+        "Transaction ID": "T097",
+        "Transaction Date": "2023-01-07",
+        "Amount": 5010.07,
+        "Category": "Utilities"
+    },
+    {
+        "Transaction ID": "T098",
+        "Transaction Date": "2023-03-02",
+        "Amount": 3229.93,
+        "Category": "Transport"
+    },
+    {
+        "Transaction ID": "T099",
+        "Transaction Date": "2023-03-28",
+        "Amount": 7419.05,
+        "Category": "Miscellaneous"
+    },
+    {
+        "Transaction ID": "T100",
+        "Transaction Date": "2023-03-24",
+        "Amount": 4674.25,
+        "Category": "Dining Out"
+    }
+]
