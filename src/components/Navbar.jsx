@@ -1,7 +1,7 @@
 import React from 'react';
 import { LuMenu } from "react-icons/lu";
 
-function Navbar({ scrollToBudget, scrollToAboutUs }) {
+function Navbar({ scrollToBudget, scrollToAboutUs, scrollToInvestment }) {
   const handleScrollToWork = () => {
     const workSection = document.getElementById('dashboard');
     workSection.scrollIntoView({ behavior: 'smooth' });
@@ -19,7 +19,7 @@ function Navbar({ scrollToBudget, scrollToAboutUs }) {
           <LuMenu />
         </span>
         <div className="links hidden sm:flex gap-10">
-          {["Dashboard", "Budget Recommendations", "About us"].map((elem, index) => (
+          {["Dashboard", "Budget Recommendations", "Investment Suggestions"].map((elem, index) => (
             <a
               key={index}
               className="text-sm font-semibold cursor-pointer transition-transform duration-300 transform hover:scale-105 hover:bg-green-700 hover:text-white rounded-full px-3 py-1"
@@ -28,8 +28,8 @@ function Navbar({ scrollToBudget, scrollToAboutUs }) {
                   ? handleScrollToWork
                   : elem === "Budget Recommendations"
                   ? scrollToBudget
-                  : elem === "About us"
-                  ? scrollToAboutUs
+                  : elem === "Investment Suggestions"
+                  ? scrollToInvestment
                   : null
               }
             >

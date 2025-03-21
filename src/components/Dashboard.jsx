@@ -3,13 +3,12 @@ import { easeIn, motion } from "framer-motion";
 import { Doughnut } from "react-chartjs-2";
 import Chart from 'chart.js/auto';
 
-function Dashboard() {
+function Dashboard({ monthlyIncome }) {
   const [chartData, setChartData] = useState(null);
   const [dateInfo, setDateInfo] = useState({ numDays: 0, months: [] });
   const [selectedMonth, setSelectedMonth] = useState('');
   const [expenditureData, setExpenditureData] = useState({ total: 0, categoryWise: {} });
 
-  const monthlyIncome = 300000; // Monthly income set to 3 lac
   const budgetSlab = {
     "Rent": 30,
     "Groceries": 15,
@@ -114,7 +113,7 @@ function Dashboard() {
     } else if (selectedMonth) {
       fetchData('../../generated_data.json');
     }
-  }, [selectedMonth]);
+  }, [selectedMonth, monthlyIncome]);
 
   return (
     <div id="dashboard" className="w-full relative bg-green-400">
