@@ -58,9 +58,6 @@ function App() {
                   <div ref={budgetRef}>
                     <TransactionHistory />
                   </div>
-                  <div ref={aboutUsRef}>
-                    <Spread />
-                  </div>
                   <div ref={investmentRef}>
                     <InvestmentSuggestions />
                   </div>

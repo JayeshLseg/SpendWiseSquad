@@ -1,5 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
+import play from '../assets/play.png'
 
 function InvestmentSuggestions() {
   const videos = [
@@ -33,14 +34,14 @@ function InvestmentSuggestions() {
 
       <div className="w-full absolute top-0">
         <div className="max-w-6xl mx-auto h-full text px-5 sm:px-10 text-black">
-          <div className="para mt-54">
-            {["Investing is a crucial part of building wealth and securing your financial future.", "Here are some resources to help you get started with investing and saving wisely."].map((elem, index) => (
+          <div className="para mt-54 text-bold ">
+            {["Investing is a crucial part of building wealth and securing your financial future.",  "Here are some resources to help you get started with investing and saving wisely."].map((elem, index) => (
               <motion.p
                 key={index}
                 initial={{ opacity: 0, y: -20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5, delay: index * 0.3 }}
-                className="text-md masker overflow-hidden font-semibold sm:text-2xl sm:font-light"
+                className="text-md masker overflow-hidden font-bold text-white  sm:text-2xl sm:font-bold"
               >
                 <span className="inline-block origin-left">
                   {elem}
@@ -70,12 +71,15 @@ function InvestmentSuggestions() {
                 initial={{ opacity: 0, y: -20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5, delay: index * 0.3 }}
-                className="video-box bg-gray-800 rounded-lg overflow-hidden shadow-lg"
+                className="video-box bg-gray-800 rounded-lg overflow-hidden shadow-lg relative"
               >
                 <a href={video.url} target="_blank" rel="noopener noreferrer">
                   <img src={video.thumbnail} alt={video.title} className="w-full h-48 object-cover" />
                   <div className="p-4">
                     <h3 className="text-white text-xl font-semibold">{video.title}</h3>
+                  </div>
+                  <div className="absolute inset-0 flex items-center justify-center">
+                    <img src={play} alt="Play Button" className="w-12 h-12 opacity-75" />
                   </div>
                 </a>
               </motion.div>
